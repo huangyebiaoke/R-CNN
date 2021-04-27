@@ -1,0 +1,6 @@
+numpy==1.19.4
+opencv-python==4.4.0.46
+tensorflow-gpu==2.2.0
+selectivesearch==0.4
+matplotlib==3.3.3
+

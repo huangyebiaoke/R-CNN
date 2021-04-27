@@ -1,0 +1,6 @@
+training
+VOCdevkit
+.vscode
+feature_map.py
+kernel_weight.py
+mmodel.h5
